@@ -1,0 +1,74 @@
+.top_header{
+    overflow: hidden;
+}
+.logo{
+    width: 30%;
+    height: 100px;
+    background-color: royalblue;
+    float: left;
+}
+.banner{
+    width: 69%;
+    height: 100px;
+    background-color: salmon;
+    float: right;
+}
+.header_bar{
+    height: 100px;
+    background-color: seagreen;
+    margin-top: 30px;
+}
+.content{
+    margin-top: 30px;
+    overflow: hidden;
+}
+.left{
+    height: 400px;
+    width: 20%;
+    background-color: violet;
+    float: left;
+    margin-right: 5%;
+}
+.middle{
+    height: 400px;
+    width: 50%;
+    background-color: yellowgreen;
+    float: left;
+}
+.top{
+    height: 100px;
+    background-color: teal;
+}
+.center{
+    overflow: hidden;
+}
+.left_block{
+    width: 50%;
+    height:200px;
+    background-color: purple;
+    float: left;
+}
+.right_block{
+    width: 50%;
+    height: 200px;
+    background-color: salmon;
+    float: right;
+}
+.bottom{
+    height: 100px;
+    background-color: orange;
+}
+.right{
+    height: 400px;
+    width: 20%;
+    background-color: steelblue;
+    float: right;
+}
+h1{
+    margin: 0;
+}
+footer{
+    height: 100px;
+    background-color: orchid;
+    margin-top: 30px;
+}
